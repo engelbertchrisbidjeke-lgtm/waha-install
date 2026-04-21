@@ -1,0 +1,2 @@
+this is where your downloaded media from your whatsapp instance are stored. 
+delete this file before install waha
